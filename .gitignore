@@ -1,0 +1,30 @@
+*.pyc
+__pycache__
+# Virtual environment
+venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Test results
+*.out
+*.test
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Compiled C extensions
+*.so
